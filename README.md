@@ -1,7 +1,11 @@
+
 aloha usb driver in ruby for Mac OSX
 ===
-[アロハUSB（ナンバーディスプレイアダプタ）](http://www.nikko-ew.co.jp/CTI/aloha_usb.html )
- 
+[アロハUSB（ナンバーディスプレイアダプタ）](http://www.nikko-ew.co.jp/CTI/aloha_usb.html )  
+![アロハUSB](https://raw.github.com/aloha-mahalo/aloha/master/doc/aloha_usb.gif)
+
+アロハUSBをMacで使おうとしたけど、どこにもドライバーらしきものも見つからなかったので作ってみました。
+
 インストール
 --
 1. まずアロハUSBが認識出来るようUSBドライバを入れる [PL2303 Mac OS X Driver Download ](http://www.prolific.com.tw/US/ShowProduct.aspx?p_id=229&pcid=41)
