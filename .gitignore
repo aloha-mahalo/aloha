@@ -1,0 +1,8 @@
+*.gem
+.bundle
+pkg/*
+nbproject
+.rvmrc
+account_info
+.DS_Store
+tmp
