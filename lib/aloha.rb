@@ -36,7 +36,6 @@ module Aloha
         #--------
         #10000111   = 135
         #
-        #http://www.ruby-lang.org/ja/old-man/html/pack_A5C6A5F3A5D7A5ECA1BCA5C8CAB8BBFACEF3.html
         
         char_code = char.ord
         char_code = char_code ^ 128 if char.ord.to_s(2).count("1").odd?
